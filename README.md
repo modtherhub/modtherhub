@@ -69,7 +69,8 @@
 <br/>
 
 <div align="center">
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-Visit%20My%20Website-22c55e?style=for-the-badge)](https://yourwebsite.com)
 </div>
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Visit%20My%20Website-22c55e?style=for-the-badge)](https://yourwebsite.com)
 
 <br/>
