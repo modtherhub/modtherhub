@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=modtherhub&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=modtherhub&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
