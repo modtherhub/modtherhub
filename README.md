@@ -56,6 +56,10 @@
 <br>
 <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=modtherhub&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+    <img width=390 src="" alt="streak stats"/>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=modtherhub&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+    
+    
 </div>
 
 <br/><br/>
