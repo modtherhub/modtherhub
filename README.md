@@ -54,13 +54,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=modtherhub&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-    <img width=390 src="" alt="streak stats"/>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=modtherhub&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-    
-    
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=modtherhub&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <br/><br/>
 
@@ -68,10 +63,6 @@
 
 <br/>
 
-<div align="center">
-</div>
-
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-Visit%20My%20Website-22c55e?style=for-the-badge)](https://yourwebsite.com)
 <p align="center">
   <a href="https://yourwebsite.com">
     <img
