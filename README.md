@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=42564F&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+<br/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
