@@ -97,7 +97,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modtherhub" alt="modtherhub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modtherhub&" alt="modtherhub" /></p>
 
 <br/><br/>
 
