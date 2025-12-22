@@ -82,11 +82,7 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modtherhub&show_icons=true&locale=en&layout=compact" alt="modtherhub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modtherhub&show_icons=true&locale=en" alt="modtherhub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modtherhub&" alt="modtherhub" /></p>
 
 
 <hr/>
@@ -94,9 +90,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=modtherhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=modtherhub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=modtherhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=modtherhub&show_icons=true&locale=en&layout=compact&bg_color=30,134E5E,71B280&title_color=C0EB6A&text_color=F7F5F5" alt="modtherhub" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modtherhub&show_icons=true&locale=en" alt="modtherhub" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modtherhub&" alt="modtherhub" /></p>
 
 <br/><br/>
 
