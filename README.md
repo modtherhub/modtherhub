@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=42564F&height=300&section=header&text=Hello%20Worlds&fontSize=90" />
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=42564F&height=300&section=header&text=Hello%20Worlds&fontSize=90" />
+</div>
 
 <br/>
 
