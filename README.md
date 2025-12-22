@@ -99,10 +99,11 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=modtherhub&hide_border=true&background=134E5E,71B280&ring=C0EB6A&fire=C0EB6A&currStreakLabel=C0EB6A&sideLabels=F7F5F5&dates=F7F5F5"
+    src="https://github-readme-streak-stats.herokuapp.com?user=modtherhub&theme=dark&hide_border=true&background=42564F&ring=C0EB6A&fire=C0EB6A&currStreakLabel=C0EB6A&sideLabels=F7F5F5&dates=F7F5F5"
     alt="modtherhub streak"
   />
 </p>
+
 
 <br/><br/>
 
