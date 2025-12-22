@@ -85,11 +85,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=modtherhub&show_icons=true&locale=en&layout=compact&bg_color=30,134E5E,71B280&title_color=C0EB6A&text_color=F7F5F5" alt="modtherhub" />
-    </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=modtherhub&show_icons=true&locale=en&layout=compact&bg_color=30,134E5E,71B280&title_color=C0EB6A&text_color=F7F5F5" alt="modtherhub" />
+</p>
 
-    <p align="center">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=modtherhub&show_icons=true&locale=en&hide_border=true&bg_color=30,134E5E,71B280&title_color=C0EB6A&text_color=F7F5F5&icon_color=C0EB6A"
     alt="modtherhub stats"
