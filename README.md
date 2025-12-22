@@ -20,9 +20,9 @@
  
  🌱 I’m currently learning **UI-UX Experience**
 
-📄 Know about my experiences 
+📄 Know about my experiences **[resume](https://github.com/modtherhub)**
 
-👨‍💻 All of my projects are available at
+👨‍💻 All of my projects are available at **[portfolio ](https://github.com/modtherhub)**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/modtherhub/modtherhub/issues)**
 
