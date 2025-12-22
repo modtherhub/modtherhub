@@ -84,19 +84,15 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=modtherhub&show_icons=true&locale=en&layout=compact&bg_color=30,134E5E,71B280&title_color=C0EB6A&text_color=F7F5F5" alt="modtherhub" />
 </p>
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=modtherhub&show_icons=true&locale=en&hide_border=true&bg_color=30,134E5E,71B280&title_color=C0EB6A&text_color=F7F5F5&icon_color=C0EB6A"
     alt="modtherhub stats"
   />
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=modtherhub&" alt="modtherhub" />
 </p>
@@ -106,11 +102,6 @@
 
 <hr/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 <br/>
 
