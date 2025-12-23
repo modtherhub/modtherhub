@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=10000&lines=Hello+World+🌍;+Modther+Abdalhag+Here;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+🌍;+Modther+Abdalhag+Here;" />
 </h1>
 
 <h3 align="center">Fornt-End Developer</h3>
