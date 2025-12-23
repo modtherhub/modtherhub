@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Worlds&animation=fadeIn&fontColor=42564f&height=100&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Greetings%20✨&animation=fadeIn&fontColor=42564f&height=100&section=header" />
 </div>
 
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Modther+Abdalhag!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+create+something+awesome+together+👋;+Modther+Abdalhag+Here;" />
 </h1>
 
 <h3 align="center">Fornt-End Developer</h3>
