@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **UI-UX Experience**
 
-📄 Know about my experiences **[resume](https://github.com/modtherhub)**
+📄 Know about my experiences **[resume](https://drive.google.com/file/d/1WetPgqgsTxdKojhMfjMhHyhMGq_Bj7dI/view?usp=sharing)**
 
 👨‍💻 All of my projects are available at **[portfolio ](https://github.com/modtherhub)**
 
