@@ -20,11 +20,11 @@
 
 📄 Know about my experiences **[resume](https://drive.google.com/file/d/1cF_cYbn4YhgpvXP9rtsxGCAl3Y4q2PP0/view?usp=drivesdk)**
 
-👨‍💻 All of my projects are available at **[portfolio ](https://github.com/modtherhub)**
+👨‍💻 All of my projects are available at **[portfolio ](https://modtherhub.github.io/modtherabdalhag/)**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/modtherhub/modtherhub/issues)**
 
-📫 How to reach me moibhub@gmail.com
+📫 How to reach me modtherabdalhag@gmail.com
 
  </div>
  
