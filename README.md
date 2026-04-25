@@ -15,7 +15,6 @@
 ---
 
 ### 📐 Project Status & Focus
-> **Note:** Following the strict 8px grid system for layout hierarchy.
 
 | Task | Description |
 | :--- | :--- |
